@@ -1,0 +1,38 @@
+C:\Users\Bilal\source\repos\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+C:\Users\Bilal\source\repos\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+C:\Users\Bilal\source\repos\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+C:\Users\Bilal\source\repos\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+C:\Users\Bilal\source\repos\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\Bilal\source\repos\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\Bilal\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Bilal\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Bilal\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+C:\Users\Bilal\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+C:\Users\Bilal\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Bilal\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+C:\Users\Bilal\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\Bilal\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+C:\Users\Bilal\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\Bilal\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\Bilal\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
+C:\Users\Bilal\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csprojAssemblyReference.cache
+E:\BSCS\5th semester\EAD\homework2\Task 2\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+E:\BSCS\5th semester\EAD\homework2\Task 2\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+E:\BSCS\5th semester\EAD\homework2\Task 2\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+E:\BSCS\5th semester\EAD\homework2\Task 2\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+E:\BSCS\5th semester\EAD\homework2\Task 2\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+E:\BSCS\5th semester\EAD\homework2\Task 2\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+E:\BSCS\5th semester\EAD\homework2\Task 2\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csprojAssemblyReference.cache
+E:\BSCS\5th semester\EAD\homework2\Task 2\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\BSCS\5th semester\EAD\homework2\Task 2\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+E:\BSCS\5th semester\EAD\homework2\Task 2\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+E:\BSCS\5th semester\EAD\homework2\Task 2\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+E:\BSCS\5th semester\EAD\homework2\Task 2\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\BSCS\5th semester\EAD\homework2\Task 2\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+E:\BSCS\5th semester\EAD\homework2\Task 2\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+E:\BSCS\5th semester\EAD\homework2\Task 2\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+E:\BSCS\5th semester\EAD\homework2\Task 2\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+E:\BSCS\5th semester\EAD\homework2\Task 2\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+E:\BSCS\5th semester\EAD\homework2\Task 2\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+E:\BSCS\5th semester\EAD\homework2\Task 2\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache

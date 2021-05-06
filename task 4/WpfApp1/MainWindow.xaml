@@ -1,0 +1,38 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="650" Width="1350
+        ">
+    <Grid HorizontalAlignment="Center">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition MinWidth="250" MaxWidth="250"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition ></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Content="Username" Grid.Row="4" Grid.ColumnSpan="2" FontSize="20" Margin="0,0,0,5" HorizontalAlignment="Left" VerticalAlignment="Bottom" FontFamily="Arial" FontWeight="Normal"></Label>
+        <TextBox x:Name="userbox" Grid.Row="5" HorizontalAlignment="Left" VerticalAlignment="Center" Width="250" Height="35" BorderThickness="0,0,0,3" VerticalContentAlignment="Bottom" FontSize="15" FontFamily="serif" ></TextBox>
+        <Label Grid.Row="6" Content="Password" Margin="0,5,0,0" FontSize="20" HorizontalAlignment="Left" FontFamily="Ariel"></Label>
+        <PasswordBox x:Name="passbox" Grid.Row="7" HorizontalAlignment="left" VerticalAlignment="Center" Width="250" Height="35" BorderThickness="0,0,0,3" VerticalContentAlignment="Bottom" ></PasswordBox>
+        <TextBox  x:Name="peekbox" Grid.Row="7" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Left" Width="250" Height="35" BorderThickness="0,0,0,3" VerticalContentAlignment="Bottom" Visibility="Hidden" FontSize="15" FontFamily="Ariel"></TextBox>
+        <Button x:Name="showbutton"  Grid.Row="7" Grid.Column="0" Width="auto" Height="auto" Content="Show password" FontSize="9"  BorderThickness="0,0,0,0" Background="White" HorizontalAlignment="Left" VerticalAlignment="Center" VerticalContentAlignment="Bottom" Margin="186,0,0,0" PreviewMouseLeftButtonDown="showbutton_PreviewMouseLeftButtonDown" PreviewMouseLeftButtonUp="showbutton_PreviewMouseLeftButtonUp"></Button>
+        <Button Grid.Row="8" Grid.Column="0" Content="Sign in" FontSize="15" FontFamily="Ariel" HorizontalAlignment="Center" Height="25" BorderBrush="White" Click="Button_Click"></Button>
+
+    </Grid>
+</Window>
